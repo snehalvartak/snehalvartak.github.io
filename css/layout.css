@@ -281,6 +281,19 @@ ul#nav li.current a { color: #F06000; }
    margin-top: 6px;
 }
 
+/* Work Experience Bullet Points */
+#resume .work ul.disc {
+   margin: 12px 0 0 20px;
+   padding: 0;
+   list-style: disc;
+}
+#resume .work ul.disc li {
+   font: 14px/24px 'opensans-regular', sans-serif;
+   color: #7A7A7A;
+   margin-bottom: 6px;
+   padding-left: 5px;
+}
+
 /*----------------------------------------------*/
 /*	Skill Bars
 /*----------------------------------------------*/
